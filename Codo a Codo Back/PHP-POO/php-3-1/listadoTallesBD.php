@@ -30,14 +30,20 @@
 
     //devuelve false si $query esta vacia
     //devuelve true si $query no esta vacia y retorna un array asociativo
-    //fetch_assoc devuelve la primer fila
+    //fetch_assoc devuelve la primer fila, lo vuelve un array
+    //cuando ya no hay mas filas en la bd devuelve falso y sale del while
     while ($resultado = $query -> fetch_assoc()) {
-        $talles[] = $resultado;
-    }
+        $talles[] = $resultado; //guardamos cada fila en el array
+    } 
     if(!isset($talles)){
         $talles[] = null;
     }
 
+    $longTalles = count($talles);
+    echo '<ul>';
+    for ($i=0; $i < $longTalles ; $i++) { 
+        echo '<li>'.$talles[$i]['nombretalle'].'</li>';
+    }
 
     ?>
 </body>

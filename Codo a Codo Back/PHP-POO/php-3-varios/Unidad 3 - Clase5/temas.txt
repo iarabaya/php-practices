@@ -1,0 +1,11 @@
+- Composición: un objeto contiene a otros objetos
+  - ejemplo cliente 
+  - acceso a atributos del objeto y atributos del objeto contenido
+
+- Acceso en Base de datos: Bd y POO
+  - listado clientes x array
+  - listado clientes x objetos
+
+
+
+

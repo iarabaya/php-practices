@@ -1,0 +1,8 @@
+- desafío DB, encuesta alumnos
+- Repaso html y php: htmlYPHP.php
+- archivo index.php, es el primer en ejecutarse en un directorio
+  - desde este archivo arranca la primer página de la aplicación o sitio web
+- TODO: leer servidores Apache, MySql; Ip + puerto
+- https://www.php.net/
+- ejemplo de array talles hardcode
+- ejemplo de array talles con conexión a la DB

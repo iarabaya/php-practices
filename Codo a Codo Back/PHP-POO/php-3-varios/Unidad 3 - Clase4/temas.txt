@@ -1,0 +1,12 @@
+- Repaso Herencia:
+- Modificadores: private, public, protected
+- Separación de calses en archivos
+- Require Include: requier-once 
+- Composición: un objeto contiene a otros objetos
+  - ejemplo cliente 
+
+- Acceso en Base de datos
+  - POO y BD
+
+
+

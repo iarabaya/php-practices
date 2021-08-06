@@ -14,7 +14,7 @@
     <?php 
         $mensaje = "Hola mundo, mensaje desde php"; //crea una variable y le asigna string
         echo $mensaje; //muestra el valor de la variable en html
-    
+
         //como ejecutar un archivo .php
         /*
         -crear archivo .php

@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: #946E83;
+}
+
+.info{
+    background-color: #DDF8E8;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.nombre, .edad, .extra{
+    color: #615055;
+    font-weight: bold;
+}
+
+span{
+    color:#B4A6AB;
+    
+}

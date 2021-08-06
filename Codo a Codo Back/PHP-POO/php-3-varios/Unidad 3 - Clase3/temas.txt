@@ -1,0 +1,8 @@
+- Repaso Encapsulamiento:
+- Herencia: hereda los atributos y métodos de la clase padre
+  - ejemplo vehículo
+  - diseño ejemplo vehículos con gráficos msvisio
+  - pasaje a clases
+
+
+

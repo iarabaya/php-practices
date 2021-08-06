@@ -29,7 +29,7 @@
         echo "<p>".$talles[$i]."</p>"; // <p>S</p><p>M</p><p>L</p>...
     }
 
-    
+    echo "<h3> Adios </h3>";
     ?>
     
 </body>
