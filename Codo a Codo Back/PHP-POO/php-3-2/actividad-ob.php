@@ -40,5 +40,7 @@ class DocenteAux extends Docente {
     }
 }
 
+$docente1 = new Docente("Mirta", "Perez", 35,"matematica", true);
+$docente2 = new Docente("Lidia", "Correa", 32, "Literatura", true);
 
 ?>
